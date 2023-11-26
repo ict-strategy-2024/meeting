@@ -1,0 +1,134 @@
+<section>
+          <div class="wrap size-50 bg-white">
+            <h2>
+              <svg class="fa-info-circle large">
+                <use xlink:href="#fa-info-circle"></use>
+              </svg>
+              <strong>A bit of context</strong>
+            </h2>
+            <hr>
+            <p>
+              To ensure that the organization's information and communication technology (ICT) infrastructure is aligned with its business goals and objectives, the following topics should be addressed:
+            </p>
+          </div>
+          <!-- .end .wrap -->
+        </section>
+        <section>
+          <!--.wrap = container (width: 90%) -->
+          <div class="wrap size-50">
+            <h2><strong>Example topics</strong></h2>
+            <hr>
+            <ol class="text-cols">
+              <!--<li><strong>Values are what we Value</strong></li>-->
+              <li>Cybersecurity</li>
+              <li>Compliance</li>
+              <li>Cloud Strategy</li>
+              <li>Collaboration Platforms</li>
+              <li>Strategy and Business Alignment</li>
+              <li>Management and Governance</li>
+              <li>Software engineering</li>
+            </ol>
+          </div>
+          <!-- .end .wrap -->
+        </section>
+        <section>
+          <!--.wrap = container (width: 90%) -->
+          <div class="wrap">
+            <div class="grid vertical-align">
+              <div class="column">
+                <h3><strong>Review our current ICT infrastructure</strong></h3>
+              </div>
+              <div class="column">
+                <p class="text-intro">
+                  Where should we improve ?
+                  <strong>What should be the roadmap for implementing the necessary changes</strong>
+                </p>
+              </div>
+            </div>
+          </div>
+          <!-- .end .wrap -->
+        </section>
+        <section>
+          <!--.wrap = container (width: 90%) -->
+          <div class="wrap size-50 bg-white">
+            <h3><strong>Nature of our Strategy</strong></h3>
+            <p class="text-intro">Ultimate goals, investments</p>
+            <hr>
+            <p>Is the strategy clear about its ultimate goals ? Does it include a list of technology investments that will help the organization achieve its objective ?</p>
+          </div>
+          <!-- .end .wrap -->
+        </section>
+        <section>
+          <!--.wrap = container (width: 90%) -->
+          <div class="wrap size-50">
+            <h2><strong>The Human Element</strong></h2>
+            <p class="text-intro">What systematic approach should we deploy for improving the way people work together to lead to greater accomplishment of goals and better individual, team, and organizational performance.</p>
+          </div>
+          <!-- .end .wrap -->
+        </section>
+        <section>
+          <!--.wrap = container (width: 90%) systematic approach for improving the way people work together leading to greater accomplishment of goals and better individual, team, and organizational performance.-->
+          <div class="wrap size-50">
+            <h2><strong>The Goal of the Human Element</strong></h2>
+            <p class="text-intro">The goal of The Human Element is to increase openness and honesty in organizations and reduce unproductive defensive behavior in order to achieve better business results.</p>
+          </div>
+          <!-- .end .wrap -->
+        </section>
+        <section>
+          <!--.wrap = container (width: 90%) -->
+          <div class="wrap size-50">
+            <h2><strong>9 Behaviours</strong></h2>
+            <p class="text-intro">Some example behaviors to consider</p>
+            <hr>
+            <ol class="text-cols">
+              <li>Openness</li>
+              <li>Honesty</li>
+              <li>Selflessness</li>
+              <li>Communication</li>
+              <li>Impact</li>
+              <li>Curiosity</li>
+              <li>Innovation</li>
+              <li>Courage</li>
+              <li>Passion</li>
+            </ol>
+            </ol>
+          </div>
+          <!-- .end .wrap -->
+        </section>
+        <!-- CONTENT WAS CUT HERE -->
+        <section>
+          <div class="wrap size-50 bg-white">
+            <h4><strong>Summary</strong></h4>
+            <hr>
+            <ol>
+              <li>As we grow, minimize rules.</li>
+              <li>Inhibit chaos with ever more high performance people.</li>
+              <li><strong>Flexibility is more important than efficiency</strong> in the long term.</li>
+            </ol>
+          </div>
+          <!-- .end .wrap -->
+        </section>
+        <section>
+          <div class="wrap">
+            <div class="grid">
+              <div class="column">
+                <p class="text-context">
+                  
+                </p>
+                <p class="text-intro"><a href="#">Bill Gates</a> wrote <strong>"The Road Ahead"</strong>. Go to <a href="https://en.wikipedia.org/wiki/The_Road_Ahead_(Gates_book)">Wikipedia</a> to read the whole document.</p>
+              </div>
+              <div class="column">
+               <div>
+                <div class="embed">
+                  <iframe width="560" height="315" src="https://www.youtube.com/embed/uvG0aCbuG60?rel=0&amp;controls=0"  allowfullscreen></iframe>
+                </div>
+                <!-- normalize flexbox -->
+               </div>
+               <!-- end .embed -->
+              </div>
+              <!-- end .column -->
+            </div>
+            <!-- end .grid -->
+          </div>
+          <!-- .end .wrap -->
+        </section>
