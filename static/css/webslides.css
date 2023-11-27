@@ -1335,6 +1335,10 @@ header[role='banner'] {
     vertical-align: middle;
     width: 4.8rem; }
 
+.table_style {
+  background-color: #E7313F;
+}
+
 /*=== 3.1. Logo 2 === */
 .logo_2 {
   text-transform: lowercase; }
