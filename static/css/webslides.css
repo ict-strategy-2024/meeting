@@ -1340,7 +1340,9 @@ header[role='banner'] {
   color: #fff;
 }
 
-.faint_red {background-color: rgba(255, 0, 0, 0.3);} 
+.faint_red {
+  background-color: rgba(255, 0, 0, 0.3);
+}
 
 /*=== 3.1. Logo 2 === */
 .logo_2 {
